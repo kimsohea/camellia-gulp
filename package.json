@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "gulp": "^5.0.0",
+    "yarn": "^1.22.22"
+  },
+  "name": "camellia-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "gulp dev",   
+    "build": "gulp build"
+  }
+}
