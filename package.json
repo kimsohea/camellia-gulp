@@ -9,7 +9,6 @@
     "build": "gulp build --build"
   },
   "dependencies": {
-    "add": "^2.0.6",
     "browser-sync": "^3.0.2",
     "del": "^7.1.0",
     "gulp": "^5.0.0",
@@ -22,7 +21,6 @@
     "gulp-prettier": "^6.0.0",
     "gulp-sass": "^5.1.0",
     "gulp-uglify-es": "^3.0.0",
-    "npm": "^10.8.2",
     "sass": "^1.77.8"
   }
 }
