@@ -1,0 +1,156 @@
+@media (max-height:815px) {
+    .mCLine {
+        width:100%;
+	    height:100%;
+	    top:50%;
+	    left:50%;
+	    transform: translate(-50%,-50%) scaleX(1.05);
+	    position: absolute;
+    }
+    .cMLine {
+        transform: translate(-50%, -41.5%);
+    }
+    .cTree01 {
+        top: -14vh;
+        left: 2vw;
+    }
+    .cTree02 {
+        top: -16vh;
+        left: 7vw;
+    }
+    .cTree03 {
+        top: -10vh;
+        left: 11.5vw;
+    }
+    .lflower01 {
+        top: -4vh;
+        left: 15vw;
+    }
+    .flower01 {
+        top: 10vh;
+        left: 15vw;
+    }
+    .flower02 {
+        top: 40vh;
+        left: 15vw;
+    }
+    .lflower02 {
+        top: 38vh;
+        left: 24vw;
+    }
+    .flower03 {
+        top: 40vh;
+        left: 66vw;
+    }
+    .cTree04 {
+        top: 28vh;
+        left: 69vw;
+    }
+    .cTree05 {
+        top: 27vh;
+        left: 74.5vw;
+    }
+    .cTree06 {
+        top: 33vh;
+        left: 78.5vw;
+    }
+    .lflower03 {
+        top: 53vh;
+        left: 78.3vw;
+    }
+    .flower04 {
+        top: 68vh;
+        left: 78.6vw;
+    }
+    .flower05 {
+        top: 93vh;
+        left: 78.6vw;
+    }
+    .lflower04 {
+        top: 103vh;
+        left: 78.7vw;
+    }
+    .flower06 {
+        top: 106vh;
+        left: 69vw;
+    }
+    .flower07 {
+        top: 106vh;
+        left: 50vw;
+    }
+    .lflower05 {
+        top: 103vh;
+        left: 45vw;
+    }
+    .cTree07 {
+        top: 92vh;
+        left: 24vw;
+    }
+    .cTree08 {
+        top: 95vh;
+        left: 19vw;
+    }
+    .cTree09 {
+        top: 96vh;
+        left: 15vw;
+    }
+    .lflower06 {
+        top: 129vh;
+        left: 15.2vw;
+    }
+    .flower08 {
+        top: 140vh;
+        left: 15.2vw;
+    }
+    .lflower07 {
+        top: 168.7vh;
+        left: 15.3vw;
+    }
+    .flower09 {
+        top: 171.5vh;
+        left: 23vw;
+    }  
+    .lflower08 {
+        top: 169.2vh;
+        left: 47vw;
+    }
+    .flower10 {
+        top: 171.5vh;
+        left: 64.5vw;
+    }
+    .cTree10 {
+        top: 168.77vh;
+        left: 70vw;
+    }
+    .cTree11 {
+        top: 160vh;
+        left: 73vw;
+    }
+    .cTree12 {
+        top: 165vh;
+        left: 77vw;
+    }
+    .wayToCome {
+        height: 85vh;
+    }
+    .information {
+        margin-top: 11.5vh;
+        transform: translateY(-14vh);
+    }
+    .cafeAndShop {
+        padding-top: 0vh;
+        transform: translateY(-4vh);
+    }
+    .ourStory {
+        height:105vh;
+    }
+    .bottomSvg .dTree04 {
+        top: 77vh;
+    }
+    .bottomSvg .dTree11 {
+        top: 74vh;
+    }
+    .bottomSvg .dTree06 {
+        top: 88vh;
+    }
+}    

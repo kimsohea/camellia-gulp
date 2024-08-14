@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ol,ul {
+    list-style: none;
+}
+h1,h2,h3,h4,h5,h6,th {
+    font-weight: inherit;
+    font-size: inherit;
+    text-transform:uppercase;
+}
+a {
+    text-decoration: none;
+    color:inherit;
+}
+table {
+    border-collapse: collapse;
+}
+i,em,address {
+    font-style: inherit;
+}
+b,strong {
+    font-weight: inherit;
+}
+div{
+    box-sizing: border-box;
+}
+figure>img {
+    width:100%;
+}
