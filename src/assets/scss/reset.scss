@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap');
+
+@font-face {
+    font-family: 'Cafe24Ssurround';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2105_2@1.0/Cafe24Ssurround.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Cafe24SsurroundAir';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2105_2@1.0/Cafe24SsurroundAir.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+html {
+    font-size:16px;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 300;
+    color:#434F4A;
+    word-break: keep-all;
+}
+h1,h2,h3,h4,h5,h6,dt,th,caption {
+    font-family: 'Cafe24Ssurround';
+    color:#F7746D;
+}
+
+.gnb {
+    >li {
+
+        font-family: 'Cafe24Ssurround';
+        color:#F7746D;
+    }
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ol,ul {
+    list-style: none;
+}
+h1,h2,h3,h4,h5,h6,th {
+    font-weight: inherit;
+    font-size: inherit;
+    text-transform:uppercase;
+}
+a {
+    text-decoration: none;
+    color:inherit;
+}
+table {
+    border-collapse: collapse;
+}
+i,em,address {
+    font-style: inherit;
+}
+b,strong {
+    font-weight: inherit;
+}
+div{
+    box-sizing: border-box;
+}
+figure {
+    >img {
+        width:100%;
+    }
+}
