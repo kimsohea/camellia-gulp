@@ -22,7 +22,6 @@ export const path = {
   build: {
     html: buildFolder,
     scss: `${buildFolder}/assets/scss`,
-    css: `${buildFolder}/assets/css`,
     scripts: `${buildFolder}/assets/js`,
     images: `${buildFolder}/assets/img`,
   },
