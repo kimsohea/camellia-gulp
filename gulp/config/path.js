@@ -8,7 +8,6 @@ export const path = {
     ],
     mainScss: `${srcFolder}/assets/scss/main.scss`,
     scss: `${srcFolder}/assets/scss/*.scss`,
-    css: `${srcFolder}/assets/scss/*.css`,
     scripts: `${srcFolder}/assets/js/*.js`,
     images: `${srcFolder}/assets/img/*.{jpg,jpeg,gif,png,webp,jfif}`,
     svg: `${srcFolder}/assets/img/*.svg`,
@@ -22,6 +21,7 @@ export const path = {
   build: {
     html: buildFolder,
     scss: `${buildFolder}/assets/scss`,
+    css: `${buildFolder}/assets/css`,
     scripts: `${buildFolder}/assets/js`,
     images: `${buildFolder}/assets/img`,
   },
